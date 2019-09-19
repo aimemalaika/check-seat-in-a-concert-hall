@@ -1,0 +1,33 @@
+body{
+  background-color:#fff;
+ }
+ #malaika{
+  display: flex;
+ }
+#room,#roomCheck,#btn{
+ padding:10px;
+ width: 400px;
+}
+#room input,#roomCheck input{
+  width: 30px;
+  height: 30px;
+  margin: 15px;
+  background-color: gray;
+  color: #fff;
+  border: none;
+  text-align: center;
+ }
+.bt{
+  border : none;
+  color:#fff;
+  padding:5px;
+}
+.check{
+  background:green;
+}
+.au{
+  background:blue;
+}
+.cl{
+  background:orange;
+}
